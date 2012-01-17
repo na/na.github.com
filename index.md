@@ -1,6 +1,6 @@
 ---
 title: Nate Anderson
-style: site.css
+layout: main 
 ---
 
 Nate Anderson
