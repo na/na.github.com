@@ -1,3 +1,7 @@
+---
+title: Nate Anderson
+---
+
 Nate Anderson
 =============
 BSME
