@@ -4,7 +4,7 @@ title: Nathan Anderson's CV
 permalink: /projects/
 ---
 
-# Project Summary - Nathan Anderson
+# FEA Project Summary - Nathan Anderson
 
 ## Larger Disc Chipper Frame Analysis
 
@@ -22,7 +22,7 @@ A CFD study was performed to determine the drag coefficient of a small three whe
 
 A large aerospace machining center was analysed and deflection results were reported to determine if the machining loads would cause error in the machining process.  The first design exceed the allowable tolerances and with after providing guidance on design updates the deflection of the machine bed was brought within specification.
 
-## Medical Device Warehous HVAC System Anaylsis
+## Medical Device Warehouse HVAC System Anaylsis
 
 A CFD study was performed to verify that the medical devices stored in a large warehouse would be maintained with a specified temperature range.  Several scenarios were run to determine the HVAC system performace under cooling and heating modes during the high temperatures of summer and cold days of winter.  
 
