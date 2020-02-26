@@ -20,7 +20,7 @@ Nathan.Anderson@Petersoncorp.com
 
 ## Experience
 
-1. `2013 to Present`  **Peterson Pacific, Eugene, OR - Engineer 4**
+1. `2013 to Present`  **Peterson Pacific, Eugene, OR - Engineer 4**  
  Lead engineer for the disc chipper and flail product lines.  Responsible for the improvement, development and manufacturability of 3 different machine types and 11 individual machine models.  Supervised a team of designers and worked closely with hydraulic, electrical and control engineering.  Supported sales and marketing with cost and detailed machine information.  Worked closely with customers to development and improve equipment based on their needs.  Developed and oversaw test plans and R&D research for the product line.  Collaborated with vendors to ensure proper quality and application of purchased parts.  Performed finite element model to improve product design.
   
 2. `2012`  **Predictive Engineering, Portland, OR - Staff Engineer**  
